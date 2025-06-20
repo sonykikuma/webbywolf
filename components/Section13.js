@@ -25,14 +25,14 @@ const Section13 = () => {
           </div>
 
           {/* Right Side Image */}
-          <div className="md:w-1/2 w-full flex justify-center md:justify-end relative">
-            <div className="md:absolute md:-top-16 border-4 border-blue-500  overflow-hidden">
+          <div className="md:w-1/2 w-full flex justify-center md:justify-end relative ">
+            <div className="md:absolute md:-top-16 border-4 border-blue-500  ">
               <Image
                 src="/sect13.png"
                 alt="Customer with Scooter"
                 width={500}
                 height={600}
-                unoptimized
+                unoptimized //overflow-hidden
                 className="object-cover w-full h-full"
               />
             </div>
