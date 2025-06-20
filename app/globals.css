@@ -24,3 +24,10 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* .clip-angle {
+  clip-path: polygon(10% 0%, 100% 0%, 100% 100%, 0% 100%);
+} */
+.clip-angle {
+  clip-path: polygon(15% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
