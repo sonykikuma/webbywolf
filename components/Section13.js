@@ -40,7 +40,7 @@ const Section13 = () => {
 
         {/* Bottom Card Overlapping at Left */}
         <div className="max-w-7xl mx-auto px-2 relative">
-          <div className="bg-white p-6 rounded-lg shadow-md md:w-1/3 w-full relative md:-bottom-34 -bottom-10 z-20">
+          <div className="bg-white p-6 rounded-lg shadow-md md:w-1/3 w-full relative md:-bottom-30 -bottom-10 z-20">
             <h3 className="text-lg font-semibold mb-4">
               Lorem ipsum dolor sit
             </h3>
